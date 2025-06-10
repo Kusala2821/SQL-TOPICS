@@ -1,6 +1,6 @@
-Query Data (SELECT)  
-DDL Commands  
-DML Commands 
+#Query Data (SELECT)  
+#DDL Commands  
+#DML Commands 
 Filtering Data
 SQL Joins(Basics to Advanced)
 SQL Operators
